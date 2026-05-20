@@ -426,19 +426,27 @@ Please ensure all existing tests pass and new features include tests.
 
 ---
 
-## Disclaimer
+## Snapshots of the Results 
 
-> **MEDICAL DISCLAIMER**
->
-> MediMind AI is intended for **informational and educational purposes only**.
-> It is **NOT** a substitute for professional medical advice, diagnosis, or treatment.
-> Always seek the advice of a qualified healthcare provider with any questions you
-> may have regarding a medical condition. **In a medical emergency, call your local
-> emergency services immediately.**
->
-> The AI-generated outputs may be inaccurate, incomplete, or not applicable to your
-> specific situation. Never disregard professional medical advice or delay seeking it
-> because of something you read or received from this platform.
+
+<img width="1904" height="726" alt="Screenshot 2026-05-20 142851" src="https://github.com/user-attachments/assets/9f8a9bd2-19e5-4537-90fe-1b70d058b182" />
+
+--
+
+
+<img width="1883" height="856" alt="image" src="https://github.com/user-attachments/assets/b1a5928d-4d86-42e6-accd-446cca9279ec" />
+
+--
+
+
+<img width="1894" height="856" alt="image" src="https://github.com/user-attachments/assets/1e0d38e6-21a2-4874-9738-6c64416515f4" />
+
+--
+
+
+<img width="1874" height="873" alt="image" src="https://github.com/user-attachments/assets/dd5c7b4a-a175-4d1e-8029-cbf36cbc76a7" />
+
+
 
 ---
 
