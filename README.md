@@ -36,7 +36,7 @@
 - [Running Tests](#running-tests)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [Disclaimer](#disclaimer)
+- [Snapshots of the Results](#snapshots-of-the-results)
 
 ---
 
