@@ -466,10 +466,11 @@ Built with ❤️ by [Yashas](https://github.com/Yashas14)
 
 ---
 
-## Author
+## 👤 Author
 
 **Yashas D**
 
-- LinkedIn: https://www.linkedin.com/in/yashasd2004/
-- GitHub: https://github.com/Yashas14
-- Repository: https://github.com/Yashas14/Health_Care_Chat_Bot
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashas%20D-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasd2004/)
+[![GitHub](https://img.shields.io/badge/GitHub-Yashas14-181717?logo=github&logoColor=white)](https://github.com/Yashas14)
+
+---
